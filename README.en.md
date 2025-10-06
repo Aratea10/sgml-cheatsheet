@@ -1,5 +1,7 @@
 # 🔠 Chuleta de SGML (Standard Generalized Markup Language)
+
 SGML is a standard for defining generalized markup languages for documents. HTML and XML are applications of SGML.
+
 ---
 <br>
 
